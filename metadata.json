@@ -1,0 +1,5 @@
+{
+  "name": "Upbit Webhook Generator",
+  "description": "A developer tool to generate Next.js serverless function code for connecting TradingView webhooks to Upbit exchange.",
+  "requestFramePermissions": []
+}
